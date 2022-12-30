@@ -1,2 +1,2 @@
-# AutonomousVehicleSimulation
+# Autonomous Vehicle Simulation
 Bachelor Thesis project
